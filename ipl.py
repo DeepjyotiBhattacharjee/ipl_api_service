@@ -28,5 +28,5 @@ def team_vs_team(team1,team2):
     }
   else:
      return {
-        'message':'Invalid team name'
+        'message':'Invalid team'
      }
